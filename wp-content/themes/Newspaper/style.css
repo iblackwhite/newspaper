@@ -23620,28 +23620,6 @@ td-md-is-safari
 .td-md-is-android .comment-content .dropcap {
   padding: 5px 13px 2px 13px;
 }
-.td-md-is-android .woocommerce-checkout .woocommerce input.button,
-.td-md-is-android .woocommerce-page .woocommerce a.button,
-.td-md-is-android .woocommerce-account div.woocommerce .button,
-.td-md-is-android .woocommerce .product a.button,
-.td-md-is-android .woocommerce .product #respond input#submit,
-.td-md-is-android .woocommerce .checkout input#place_order,
-.td-md-is-android .woocommerce .woocommerce.widget .button {
-  padding: 10px 10px 7px;
-}
-.td-md-is-android .woocommerce span.onsale {
-  line-height: 25px;
-  min-height: 25px;
-}
-.td-md-is-android .woocommerce div.product .woocommerce-tabs ul.tabs li a {
-  padding: 7px 12px 6px;
-}
-.td-md-is-android .single-product .product .related h2 {
-  padding: 8px 12px 5px;
-}
-.td-md-is-android .woocommerce-checkout .woocommerce input.button {
-  padding: 8px 10px;
-}
 
 @media (max-width: 767px) {
   .td-md-is-android .td-mobile-content .sub-menu a {
