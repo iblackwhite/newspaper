@@ -23642,26 +23642,7 @@ td-md-is-safari
 .td-md-is-android .woocommerce-checkout .woocommerce input.button {
   padding: 8px 10px;
 }
-.td-md-is-android #buddypress div.item-list-tabs ul li > a {
-  padding: 1px 15px 0;
-}
-.td-md-is-android #buddypress div.generic-button.friendship-button a,
-.td-md-is-android #buddypress div.generic-button a.join-group,
-.td-md-is-android #buddypress div.generic-button a.leave-group,
-.td-md-is-android #buddypress div.generic-button a.mention,
-.td-md-is-android #buddypress div.generic-button a.send-message {
-  padding: 5px 10px 4px;
-}
-.td-md-is-android #buddypress a.bp-primary-action span,
-.td-md-is-android #buddypress #reply-title small a span {
-  padding: 2px 3px 0 4px;
-}
-.td-md-is-android #buddypress div.activity-meta a.acomment-reply {
-  padding-top: 3px;
-}
-.td-md-is-android #buddypress div.activity-meta a {
-  padding: 4px 8px 2px;
-}
+
 @media (max-width: 767px) {
   .td-md-is-android .td-mobile-content .sub-menu a {
     padding: 9px 8px 7px 36px !important;
